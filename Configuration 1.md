@@ -12,7 +12,7 @@
 - Configuration of router-on-a-stick inter- VLAN routing on a router.
 - Configure default gateways on hosts
 
-![image](https://user-images.githubusercontent.com/84760450/183389927-229c79d1-a6ea-482c-9c51-f3b37349a86e.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/NZtWZ9k/Addresing-Table1.png" alt="Addresing-Table1" border="0"></a>
 
 ## Part 1: Basic Router Configuration
 ### Step 1: Configure router RTR-1 with required settings
