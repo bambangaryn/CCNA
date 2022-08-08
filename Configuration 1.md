@@ -1,5 +1,4 @@
-
-![](Image/Topologi 1.png)
+<a href="https://ibb.co/6wdmFG7"><img src="https://i.ibb.co/F3PKzcL/Topologi-1.png" alt="Topologi-1" border="0"></a>
 ### objectives:
 - Configuration of initial settings on a router.
 - Configuration of initial settings on a switch, including SVI and SSH.
@@ -87,7 +86,7 @@ On switch SW-3, configure SSH as follows:
 ### Step 1: Configure VLANs according to the VLAN table.
 #### Vlan Table
 
-![](Image/VlanTable1.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XJFqWXG/Vlan-Table1.png" alt="Vlan-Table1" border="0"></a>
 
 #### MSW-1
         MSW-1(config)#vlan 10
@@ -198,7 +197,7 @@ On switch SW-3, configure SSH as follows:
 
 ### Step 2: Assign switch ports to VLANs
 #### Port VLAN Table
-![](Image/PorttoVLANAssignmentTable1.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WyHr24w/Portto-VLANAssignment-Table1.png" alt="Portto-VLANAssignment-Table1" border="0"></a>
 #### SW-1
         SW-1(config)#interface range f0/7-10
         SW-1(config-if-range)#switchport mode access
@@ -255,7 +254,7 @@ On switch SW-3, configure SSH as follows:
 ## Part 4: EtherChannel and Trunking Configuration
 EtherChannel Port Assignments Table
 
-![](Image/EtherChannelPortAssignmentsTable1.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JyR6CZ2/Ether-Channel-Port-Assignments-Table1.png" alt="Ether-Channel-Port-Assignments-Table1" border="0"></a>
 
 
 ### Step 1: Configure EtherChannels
