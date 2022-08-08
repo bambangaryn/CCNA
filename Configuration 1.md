@@ -1,5 +1,5 @@
 
-
+![](Image/Topologi 1.png)
 ### objectives:
 - Configuration of initial settings on a router.
 - Configuration of initial settings on a switch, including SVI and SSH.
@@ -12,7 +12,7 @@
 - Configuration of router-on-a-stick inter- VLAN routing on a router.
 - Configure default gateways on hosts
 
-![](Image/AddresingTable1.png)
+c
 ## Part 1: Basic Router Configuration
 ### Step 1: Configure router RTR-1 with required settings
 
