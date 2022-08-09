@@ -26,6 +26,10 @@ the Address Table for S1 VLAN 200 and enter the associated default gateway.
 c. One subnet, “Subnet C”, supporting 12 hosts (the client network at R2).
 Subnet C: 192.168.1.0/28
 
+## Subnetting IP
+
+<a href="https://ibb.co/5rHz0G3"><img src="https://i.ibb.co/bs9y0QV/Addressing-Table.png" alt="Addressing-Table" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>gif 1 1</a><br />
+
 ### Step 3: Configure basic settings for each router.
 
 a. Assign a device name to the router.
@@ -254,6 +258,7 @@ c. Verify the sub-interfaces are operational.
 
 ### Step 9: Configure G0/0/1 on R2, then G0/0/0 and static routing for both routers
 a. Configure G0/0/1 on R2 with the first IP address of Subnet C 
+
         Router(config)#hostname R2
         R2(config)#interface g0/0/1
         R2(config-if)#ip address 192.168.1.97 255.255.255.240
