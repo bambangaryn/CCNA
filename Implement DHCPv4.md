@@ -326,7 +326,7 @@ network, default-router and use the same domain name and lease time from the pre
 
 ### Step 2: Save your configuration
 Save the running configuration to the startup configuration file.
-Close configuration window
+
 Step 3: Verify the DHCPv4 Server configuration
 a. show ip dhcp pool to examine the pool details.
 b. Issue the command show ip dhcp bindings to examine established DHCP address assignments.
