@@ -1,7 +1,10 @@
 # Implement DHCPv4
 
-Toplogi
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CJz1kSD/Topologi.png" alt="Topologi" border="0"></a>
 
+## VLAN Table
+
+<a href="https://ibb.co/vVb61W8"><img src="https://i.ibb.co/PFRvxy8/VLAN-Table.png" alt="VLAN-Table" border="0"></a>
 ## Objectives
 Part 1: Build the Network and Configure Basic Device Settings
 Part 2: Configure and verify two DHCPv4 Servers on R1
