@@ -1,6 +1,8 @@
 
 <a href="https://ibb.co/6XRq5GN"><img src="https://i.ibb.co/7kJ0FBb/Screenshot-2022-10-04-10-49-23-AM.png" alt="Screenshot-2022-10-04-10-49-23-AM" border="0"></a>
 
+
+<a href="https://ibb.co/mB9H4Tg"><img src="https://i.ibb.co/FW5Bz3C/Screenshot-2022-10-04-10-52-45-AM.png" alt="Screenshot-2022-10-04-10-52-45-AM" border="0"></a>
 ## Step 1: Configure an IPv4 static default route.
 On Edge_Router, configure a directly connected IPv4 default static route. This primary default route should be through router ISP1.
 
