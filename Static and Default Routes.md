@@ -86,3 +86,12 @@ a. On Edge Router, configure an IPv6 next hop host route to the customer server 
 b. On Edger Router, configure an IPv6 directly connected floating host route to the customer sever through the ISP2 router. Use an administrative distance of 5.
 
         Edge_Router(config)# ipv6 route 2001:db8:f:f::10/128 2001:db8:a:2::1 5
+        
+## Verifikasi
+Edge_Router#show ip route static
+
+Edge_Router#show ip route | begin Gateway
+
+Edge_Router# show ipv6 route
+
+Edge_Router#show ipv6 route static
